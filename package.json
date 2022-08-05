@@ -1,7 +1,7 @@
 {
   "name": "node-pterodactyl-bot",
   "version": "1.0.0",
-  "main": "src/bot.js",
+  "main": "bot.js",
   "license": "Apache 2.0",
   "author": "spelsinx",
   "dependencies": {
