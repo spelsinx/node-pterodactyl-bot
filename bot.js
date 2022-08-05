@@ -18,7 +18,7 @@ bot.onText(/\/start/, (msg, match) => {
   const chatId = msg.chat.id;
 
   // send back the matched "whatever" to the chat
-  bot.sendMessage(chatId, "♥️ Greetings. I am a bot to manage the hosting client panel DelfixHost.\n\n✨️ Specially created by Spelsinx."); // greeting
+  bot.sendMessage(chatId, "♥️ Greetings. I am a bot to manage the hosting client panel MyHost.\n\n✨️ Specially created by Author."); // greeting
 });
 
 /* LOGIN IN THE PANEL OF YOUR HOSTING WITH THE HELP OF THE TOKEN. INSERT TOKEN THROUGH A SPACE */
