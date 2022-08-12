@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const Nodeactyl = require('nodeactyl');
 
 /* STARTS, ENTER YOUR TOKEN */
-const bot = new TelegramBot('token', {
+const bot = new TelegramBot('TOKEN', {
 	polling: true
 });
 
