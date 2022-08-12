@@ -11,10 +11,10 @@ Telegram **BOT**, to work with hosting user panel Pterodactryl
 
 ## Documentation
 
-All documentation on methods, errors, requests, and additional information is on the **[TGSNAKE](https://tgsnake.js.org)** site.
+All documentation on methods, errors, requests, and additional information is on the **[NODEACTYL](https://docs.nodeactyl.dev)** site.
 
 ## License 
 
-This information is distributed for informational purposes. We are not trying to offend anyone. For more information go to the file **[LICENSE](https://github.com/spelsinx/tg-userbot-js/blob/main/LICENSE)**. 
+This information is distributed for informational purposes. We are not trying to offend anyone. For more information go to the file **[LICENSE](https://github.com/spelsinx/node-pterodactyl-bot/blob/main/LICENSE)**. 
 
 
